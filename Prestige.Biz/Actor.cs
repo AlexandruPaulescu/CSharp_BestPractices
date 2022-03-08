@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Prestige.Biz
 {
@@ -20,7 +16,7 @@ namespace Prestige.Biz
         private string actorName;
         public string ActorName
         {
-            get { return actorName; }
+            get => actorName;
             set {
                 var formattedName = value?.Trim();
                 actorName = formattedName; 
@@ -37,7 +33,6 @@ namespace Prestige.Biz
             set { jobTitle = value; }
         }
         private Agency currentAgency;
-
         public Agency CurrentAgency
         {
             get 
