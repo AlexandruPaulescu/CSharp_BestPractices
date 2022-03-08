@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Common\bin\Debug\Prestige.Common.dll
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Common\bin\Debug\Prestige.Common.pdb
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.dll
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.pdb

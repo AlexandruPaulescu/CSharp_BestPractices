@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\bin\Debug\Prestige.Biz.exe.config
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\bin\Debug\Prestige.Biz.exe
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\bin\Debug\Prestige.Biz.pdb
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\obj\Debug\Prestige.Biz.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\obj\Debug\Prestige.Biz.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\obj\Debug\Prestige.Biz.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\obj\Debug\Prestige.Biz.exe
+C:\Users\acer\Desktop\C#Portfolio\C# Best Practices Course - Linkedin\BestPractices\Prestige.Biz\obj\Debug\Prestige.Biz.pdb
